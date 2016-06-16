@@ -1,0 +1,23 @@
+
+
+.iphone{
+    width: 270px;
+    height: 495px;
+    margin: 2px;
+    border: 2px solid black; border-radius: 30px;
+background-color: black;float:left}
+
+.wh{
+    width: 240px;
+    height: 380px;
+    border: 2px solid white; border-radius: 8px;
+    background-color:white;float:left;
+    position: absolute ;left: 25px;top:70px;
+    }
+
+.pic{width: 500px;
+    float:left;}
+.buttom{border-radius: 40px;background-color: white;width: 38px;height: 38px;float:left;position: absolute;top:460px; left:125px;}
+.buttom2{border-radius: 20px;background-color: white;width: 11px;height: 11px;float:left;position: absolute;top:37px; left:110px;}
+.buttom3{border-radius: 20px;background-color: white;width: 42px;height: 5px;float:left;position: absolute;top:39px; left:133px;}
+

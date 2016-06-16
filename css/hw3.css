@@ -1,0 +1,27 @@
+#guideline li{list-style-type: none;
+list-style-position: inside;
+display: inline-block;
+    padding: 5px 40px 5px 40px;
+}
+div{margin: auto;}
+h1{background-color:lemonchiffon;
+color: cadetblue;}
+p1{color:chocolate; line-height: 1.5; letter-spacing: 5px;}
+table{background-color: brown;background-position:top;margin: auto;}
+h2{color:darkslategrey;}
+p2{text-indent: 5px;}
+#guideline{width: 750px;margin: 0 auto;}
+h2{text-align: center;}
+p2{text-align: center;
+margin: 0 auto;}
+.total{width: 60%;
+    height: 800px;
+    margin: o auto;}
+.food{width: 100%;;
+    height: auto;
+margin: 0 auto;}
+.p2{width: 60;
+height: 60;
+margin: 0 auto;
+text-align: center}
+.pic2{width: 60%;
